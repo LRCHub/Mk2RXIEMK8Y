@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Better Dayz (feat. Mr. Biggs)",
+  "base_artist": "2Pac",
+  "createdAt": "2026-03-18T17:39:37.786421Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Better Dayz (feat. Mr. Biggs)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/01_Better_Dayz_(feat._Mr._Biggs)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Better Dayz (Feat. Mr. Biggs)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/02_Better_Dayz_(Feat._Mr._Biggs)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Better Dayz (Feat. Mr. Biggs)",
+      "artist": "2 Pac",
+      "has_synced": true,
+      "path": "select/03_Better_Dayz_(Feat._Mr._Biggs)_2_Pac.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Better Dayz feat. Mr. Biggs",
+      "artist": "TuPac",
+      "has_synced": true,
+      "path": "select/04_Better_Dayz_feat._Mr._Biggs_TuPac.lrc"
+    }
+  ]
+}
