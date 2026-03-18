@@ -1,40 +1,152 @@
 {
   "version": 1,
-  "base_track": "Better Dayz (feat. Mr. Biggs)",
+  "base_track": "Better Dayz",
   "base_artist": "2Pac",
-  "createdAt": "2026-03-18T17:41:00.131649Z",
+  "createdAt": "2026-03-18T17:42:18.304147Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Better Dayz (feat. Mr. Biggs)",
+      "title": "Better Dayz",
       "artist": "2Pac",
       "has_synced": true,
-      "path": "select/01_Better_Dayz_(feat._Mr._Biggs)_2Pac.lrc"
+      "path": "select/01_Better_Dayz_2Pac.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Better Dayz (Feat. Mr. Biggs)",
-      "artist": "2Pac",
+      "title": "Better Dayz",
+      "artist": "2Pac feat. Mr. Biggs",
       "has_synced": true,
-      "path": "select/02_Better_Dayz_(Feat._Mr._Biggs)_2Pac.lrc"
+      "path": "select/02_Better_Dayz_2Pac_feat._Mr._Biggs.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
       "title": "Better Dayz (Feat. Mr. Biggs)",
-      "artist": "2 Pac",
+      "artist": "2Pac",
       "has_synced": true,
-      "path": "select/03_Better_Dayz_(Feat._Mr._Biggs)_2_Pac.lrc"
+      "path": "select/03_Better_Dayz_(Feat._Mr._Biggs)_2Pac.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Better Dayz feat. Mr. Biggs",
-      "artist": "TuPac",
+      "title": "Better Dayz",
+      "artist": "2Pac; Mr. Biggs",
       "has_synced": true,
-      "path": "select/04_Better_Dayz_feat._Mr._Biggs_TuPac.lrc"
+      "path": "select/04_Better_Dayz_2Pac;_Mr._Biggs.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Intro (2Pac / Better Dayz)(Album Version (Explicit))",
+      "artist": "2pac",
+      "has_synced": true,
+      "path": "select/05_Intro_(2Pac___Better_Dayz)(Album_Version_(Explicit))_2pac.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Better Dayz",
+      "artist": "cozmez",
+      "has_synced": true,
+      "path": "select/06_Better_Dayz_cozmez.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Better Dayz",
+      "artist": "REASON",
+      "has_synced": true,
+      "path": "select/07_Better_Dayz_REASON.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Better Dayz",
+      "artist": "2Pac feat. Ronald Isley",
+      "has_synced": true,
+      "path": "select/08_Better_Dayz_2Pac_feat._Ronald_Isley.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Better Dayz featuring Mr. Biggs",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/09_Better_Dayz_featuring_Mr._Biggs_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BETTER DAYZ",
+      "artist": "UnityTX",
+      "has_synced": true,
+      "path": "select/10_BETTER_DAYZ_UnityTX.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Better Dayz",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/11_Better_Dayz_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Better Dayz",
+      "artist": "SpaceGhostPurrp",
+      "has_synced": true,
+      "path": "select/12_Better_Dayz_SpaceGhostPurrp.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Better Dayz (Feat  Ron Isley)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/13_Better_Dayz_(Feat_Ron_Isley)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BETTER DAYZ",
+      "artist": "Summer Cem feat. reezy",
+      "has_synced": true,
+      "path": "select/14_BETTER_DAYZ_Summer_Cem_feat._reezy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "BETTER DAYZ",
+      "artist": "Summer Cem",
+      "has_synced": true,
+      "path": "select/15_BETTER_DAYZ_Summer_Cem.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Intro (Better Dayz)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/16_Intro_(Better_Dayz)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "BETTER DAYZ (feat. reezy)",
+      "artist": "Summer Cem",
+      "has_synced": true,
+      "path": "select/17_BETTER_DAYZ_(feat._reezy)_Summer_Cem.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Better Dayz",
+      "artist": "2Pac",
+      "has_synced": false,
+      "path": "select/pl_01_Better_Dayz_2Pac.txt"
     }
   ]
 }
