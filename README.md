@@ -1,0 +1,90 @@
+# 2Pac – Better Dayz (feat. Mr. Biggs)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.08] Lookin' for these better days
+[00:03.86] Better days, ay, better days
+[00:08.94] Got me thinkin' 'bout better days
+[00:11.83] Better days, better days, better days
+[00:16.34] Ay, better days, got me thinkin' 'bout better days
+[00:41.34] 
+[00:22.07] Time to question our lifestyle, look how we live
+[00:24.75] Smokin' we- like it ain't no thang, so even kids wanna try now
+[00:28.59] They lie down and get ran through
+[00:30.58] Nobody watches 'em clockin' the evil man do
+[00:33.03] Faced with the demons, addicted to hearin' victims screamin'
+[00:35.86] Guess we was evil since birth, product of cursed -
+[00:38.50] 'Cause even our birthdays is cursed days
+[00:41.57] A born thug in the first place, the worst ways
+[01:04.57] 
+[00:44.08] I'd love to see the block in peace
+[00:45.61] With no more dealers and crooked cops, the only way to stop the beast
+[00:49.37] And only we can change
+[00:50.80] It's up to us to clean up the streets, it ain't the same
+[00:53.25] Too many murders, too many funerals and too many tears
+[00:56.34] Just seen another brother buried, plus I knew him for years
+[00:59.35] Passed by his family, but what could I say?
+[01:01.77] Keep yo' head up and try to keep the faith and pray for better days
+[01:35.27] 
+[01:05.87] Better days, better days, ay
+[01:09.84] Better days, got me thinkin' 'bout better days
+[01:15.07] Better days, better days, better days
+[01:19.57] Ay, better days, got me thinkin' 'bout better days
+[01:44.57] 
+[01:25.48] Thinkin' back as an adolescent, who would've guessed
+[01:28.03] That in my future years, I'd be stressin'?
+[01:30.23] Some say the ghetto's sick and corrupted
+[01:32.58] Plus, my P.O. won't let me hang with the brothers I grew up with
+[01:35.76] Tryna keep my head up and stay strong
+[01:37.82] All my homies slangin' - all day long, but they wrong
+[01:41.47] So I'm solo and so broke
+[01:43.12] Savin' up for some Jordan's 'cause they dope
+[02:05.12] 
+[01:45.76] I got a girl and I love her, but she broke too and so am I
+[01:49.20] I can't take her to the place she wanna go to
+[01:51.87] So we argue and play fight, all day and night
+[01:54.53] Makin' passionate love 'til the daylight
+[01:56.86] Plus we about to get evicted, can't pay the rent
+[01:59.76] Guess it's time to see who really is yo' friend
+[02:02.31] Tell me you pregnant and I'm amazed
+[02:04.69] So many blessings while we stressin', lookin' for them better days (better days)
+[02:44.69] 
+[02:09.53] Better days, better days, ay
+[02:15.82] Thinkin' 'bout better days (I'm lookin' for better days)
+[02:18.67] Better days, better days, better days
+[02:22.92] Ay, better days, got me thinkin' 'bout better days
+[02:47.92] 
+[02:28.64] Now me and you was real cool, hell on them square fools
+[02:32.14] Since back in high school, we was true, me and you
+[02:34.73] Hardly parted or separated, we stayed faded
+[02:37.19] Affiliated with gangbangers and still made it
+[02:39.99] Up in the gym, mess with me, gotta mess with him
+[02:42.69] Still dressin' like grown men when rollin'
+[02:45.26] I went to dark, smokin' Newports, gamin' marks
+[02:47.96] Got a place in my heart, homie, stay smart
+[03:08.96] 
+[02:50.73] Locked you up in the pen' and gave you three to ten
+[02:53.14] I send you letters with naked flicks of old friends
+[02:56.24] Hopin' you well, I know it's hell
+[02:57.82] Doin' time in the cells, you need mail, when you in jail
+[03:01.27] And me, I'm doin' cool
+[03:02.98] I settled down, had a family, workin' and night school
+[03:06.50] Every once in a while, I reminisce
+[03:08.64] And wonder how we ever came to this, I miss the better days
+[03:38.14] 
+[03:12.80] Better days, better days, ay
+[03:19.27] I'm thinkin' bout better days
+[03:21.56] Better days, better days, better days
+[03:26.37] Ay, better days, got me thinkin' 'bout better days
+[03:51.37] 
+[03:32.87] I send this one out to all the homeboys down in Clinton lock down
+[03:37.53] Rikers Island, all them dudes I was locked up with
+[03:41.70] E block, F block, lower H, N-I-C in Rikers Island, downstate
+[03:49.93] All the peoples I met along the way
+[03:52.50] Better days is comin', homeboy, keep your head up
+[04:17.00] 
+[03:54.62] Better days, better days, better days
+[03:58.03] Ay, better days, lookin' for the better days
+[04:04.54] Better days, better days, lookin' for the better days, ay
+```
